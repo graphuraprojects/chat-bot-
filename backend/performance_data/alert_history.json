@@ -1,0 +1,74 @@
+[
+  {
+    "id": "query_processor_error_rate_1765439763",
+    "timestamp": "2025-12-11T13:26:03.028016",
+    "severity": "critical",
+    "component": "query_processor",
+    "metric": "error_rate",
+    "current_value": 0.5,
+    "threshold": 0.15,
+    "message": "Critical error rate: 0.50",
+    "resolved": false,
+    "resolved_at": null
+  },
+  {
+    "id": "response_generator_error_rate_1765439763",
+    "timestamp": "2025-12-11T13:26:03.028490",
+    "severity": "critical",
+    "component": "response_generator",
+    "metric": "error_rate",
+    "current_value": 0.5,
+    "threshold": 0.15,
+    "message": "Critical error rate: 0.50",
+    "resolved": false,
+    "resolved_at": null
+  },
+  {
+    "id": "response_generator_confidence_score_1765439763",
+    "timestamp": "2025-12-11T13:26:03.047405",
+    "severity": "high",
+    "component": "response_generator",
+    "metric": "confidence_score",
+    "current_value": 0.1,
+    "threshold": 0.3,
+    "message": "Critical low confidence score: 0.10",
+    "resolved": false,
+    "resolved_at": null
+  },
+  {
+    "id": "response_generator_confidence_score_1765648425",
+    "timestamp": "2025-12-13T23:23:45.439890",
+    "severity": "high",
+    "component": "response_generator",
+    "metric": "confidence_score",
+    "current_value": 0.1,
+    "threshold": 0.2,
+    "message": "Critical low confidence score: 0.10",
+    "resolved": false,
+    "resolved_at": null
+  },
+  {
+    "id": "response_generator_confidence_score_1765648838",
+    "timestamp": "2025-12-13T23:30:38.335009",
+    "severity": "high",
+    "component": "response_generator",
+    "metric": "confidence_score",
+    "current_value": 0.1,
+    "threshold": 0.2,
+    "message": "Critical low confidence score: 0.10",
+    "resolved": false,
+    "resolved_at": null
+  },
+  {
+    "id": "response_generator_confidence_score_1765649807",
+    "timestamp": "2025-12-13T23:46:47.506849",
+    "severity": "high",
+    "component": "response_generator",
+    "metric": "confidence_score",
+    "current_value": 0.1,
+    "threshold": 0.2,
+    "message": "Critical low confidence score: 0.10",
+    "resolved": false,
+    "resolved_at": null
+  }
+]
