@@ -1,61 +1,11 @@
-﻿# =========================
-# Core Django Framework
-# =========================
-Django==4.2.7
-
-# =========================
-# Security & Authentication
-# =========================
-django-simple-captcha==0.6.3
+asgiref==3.11.0
+cffi==2.0.0
 cryptography==46.0.3
-
-# =========================
-# REST & API Support
-# =========================
-djangorestframework==3.14.0
-djangorestframework-simplejwt==5.3.1
-django-cors-headers==4.3.1
-
-# =========================
-# RAG System Dependencies
-# =========================
-python-docx==1.1.2
-numpy==1.26.4
-scikit-learn==1.4.2
-google-generativeai==0.3.2
-pyspellchecker==0.8.1
-
-# =========================
-# Async / Realtime (Optional)
-# =========================
-django-channels==0.7.0
-
-# =========================
-# Django Utilities
-# =========================
-django-widget-tweaks==1.4.12
+Django==6.0
 django-ranged-response==0.2.0
-django-debug-toolbar==4.2.0
-django-extensions==3.2.3
-
-# =========================
-# Testing & Quality
-# =========================
-pytest==7.4.3
-pytest-django==4.7.0
-pytest-cov==4.1.0
-hypothesis==6.148.7
-
-# =========================
-# Code Formatting & Linting
-# =========================
-black==23.11.0
-flake8==6.1.0
-isort==5.12.0
-mypy==1.7.1
-
-# =========================
-# Documentation
-# =========================
-Sphinx==7.2.6
-sphinx-rtd-theme==1.3.0
+django-simple-captcha==0.6.3
+numpy==2.3.5
+pillow==12.0.0
+pycparser==2.23
+sqlparse==0.5.4
+tzdata==2025.3
